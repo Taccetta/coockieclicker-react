@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  padding: 50px;
+}
+
+#cookie {
+  width: 200px;
+  height: 200px;
+  background-image: url('cookie.png');
+  background-size: cover;
+  display: inline-block;
+  cursor: pointer;
+}
+
+#cookies-display {
+  margin-top: 20px;
+  font-size: 24px;
+}
